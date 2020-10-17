@@ -13,7 +13,7 @@
 
   ![alt text](https://github.com/sachin327/multiple-digit-recognizer-/blob/master/images/convert_mnist.png)
   
-# After passint this image to our model we got this image
+# After passing this image to our model we got this image
 
   
 
