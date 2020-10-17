@@ -1,7 +1,6 @@
 # multiple-digit-recognizer
   
- # Here i am using sliding window technic to select all the possible part of image and checking for actual image vs background image. Then if it is not a background image then passing it to another model which detect its value(digit no. 0 to 9).After that using IOU and NON MAX SUPPRESION eleminate all unwanted predictions we have our final output image.
- 
+ # Here i am using sliding window technic to select all the possible part of image and checking for actual image vs background image. Then if it is not a background image then passing it to another model which detect its value(digit no. 0 to 9).After that using IOU and NON MAX SUPPRESION eleminate all unwanted predictions we have our final output image. And i have got about 98 % accuracy
   
 # Input image
   
